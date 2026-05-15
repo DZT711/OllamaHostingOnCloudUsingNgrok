@@ -1,5 +1,7 @@
 # 🚀 Ollama Colab Manager & Hosting
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DZT711/OllamaHostingOnCloudUsingNgrok/blob/main/ollamaNgrokDemo.ipynb)
+
 This project provides a powerful, interactive way to run and host **Ollama** on Google Colab using **Ngrok** for external access. It includes a custom-built Model Manager to easily browse, pull, and delete models from multiple providers.
 
 ---
@@ -17,10 +19,36 @@ This project provides a powerful, interactive way to run and host **Ollama** on 
 
 ---
 
+## 📊 Statistics & Model Capacity
+
+The **Advanced Model Manager** provides access to a massive library of AI models. Here is the current capacity:
+
+| Provider | Approx. Models | Download Support | Compatibility |
+| :--- | :--- | :--- | :--- |
+| **🦙 Ollama Library** | **230+** | 100% | Native / Guaranteed |
+| **🧠 LM Studio Publishers** | **2,100+** | Varies | GGUF Verified |
+| **🤗 Hugging Face** | **1,000+** | Varies | GGUF / Experimental |
+| **TOTAL** | **3,300+** | **Discovery list** | |
+
+*Note: While thousands of models are discoverable, automated download support varies for community-provided models (Hugging Face & LM Studio). The "Compatibility Score" in the manager helps you identify models most likely to run smoothly on your setup.*
+
+---
+
 ## 📋 Prerequisites
 
 1.  **Google Account:** To use Google Colab.
 2.  **Ngrok Account:** Sign up at [ngrok.com](https://ngrok.com/) to get your free Authtoken.
+
+---
+
+## 💻 Platform Compatibility
+
+While this project is **highly recommended to run on Google Colab with GPU**, it is also compatible with:
+- **Other Jupyter Notebooks**
+- **Virtual Machines (VMs)**
+- **Local Linux Environments**
+
+*Note: Ensure you have a GPU and Python 3.8+ installed if running outside of Colab.*
 
 ---
 
