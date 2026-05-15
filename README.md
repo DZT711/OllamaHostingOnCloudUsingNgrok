@@ -24,11 +24,11 @@ The **Advanced Model Manager** provides access to a massive library of AI models
 | Provider | Approx. Models | Download Support | Compatibility |
 | :--- | :--- | :--- | :--- |
 | **🦙 Ollama Library** | **230+** | 100% | Native / Guaranteed |
-| **🧠 LM Studio Publishers** | **2,100+** | 100% | GGUF Verified |
-| **🤗 Hugging Face** | **1,000+** | 100% | GGUF / Experimental |
-| **TOTAL** | **3,300+** | **Available for pull** | |
+| **🧠 LM Studio Publishers** | **2,100+** | Varies | GGUF Verified |
+| **🤗 Hugging Face** | **1,000+** | Varies | GGUF / Experimental |
+| **TOTAL** | **3,300+** | **Discovery list** | |
 
-*Note: All listed models can be downloaded directly through the UI. "Compatibility Score" in the manager helps you identify models most likely to run smoothly on your current setup.*
+*Note: While thousands of models are discoverable, automated download support varies for community-provided models (Hugging Face & LM Studio). The "Compatibility Score" in the manager helps you identify models most likely to run smoothly on your setup.*
 
 ---
 
