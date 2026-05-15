@@ -1,5 +1,7 @@
 # 🚀 Ollama Colab Manager & Hosting
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DZT711/OllamaHostingOnCloudUsingNgrok/blob/main/ollamaNgrokDemo.ipynb)
+
 This project provides a powerful, interactive way to run and host **Ollama** on Google Colab using **Ngrok** for external access. It includes a custom-built Model Manager to easily browse, pull, and delete models from multiple providers.
 
 ---
@@ -36,6 +38,17 @@ The **Advanced Model Manager** provides access to a massive library of AI models
 
 1.  **Google Account:** To use Google Colab.
 2.  **Ngrok Account:** Sign up at [ngrok.com](https://ngrok.com/) to get your free Authtoken.
+
+---
+
+## 💻 Platform Compatibility
+
+While this project is **highly recommended to run on Google Colab with GPU**, it is also compatible with:
+- **Other Jupyter Notebooks**
+- **Virtual Machines (VMs)**
+- **Local Linux Environments**
+
+*Note: Ensure you have a GPU and Python 3.8+ installed if running outside of Colab.*
 
 ---
 
